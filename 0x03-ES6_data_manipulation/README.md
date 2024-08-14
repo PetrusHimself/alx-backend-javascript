@@ -94,17 +94,6 @@ The array contains the following students in order:
 
 
 
-#### 0\. Basic list of objects
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
-
 ### 1\. More mapping
 
 mandatory
@@ -140,17 +129,6 @@ You must use the `map` function on the array.
 *   File: `1-get_list_student_ids.js`
 
 
-
-#### 1\. More mapping
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
 
 ### 2\. Filter
 
@@ -188,16 +166,6 @@ You must use the `filter` function on the array.
 *   File: `2-get_students_by_loc.js`
 
 
-#### 2\. Filter
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
 
 ### 3\. Reduce
 
@@ -234,16 +202,6 @@ You must use the `reduce` function on the array.
 
 
 
-#### 3\. Reduce
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
 
 ### 4\. Combine
 
@@ -304,18 +262,6 @@ You must use `filter` and `map` combined.
 *   Directory: `0x03-ES6_data_manipulation`
 *   File: `4-update_grade_by_city.js`
 
-
-
-#### 4\. Combine
-
-##### Commit used:
-
-*   **User:** \---
-*   **URL:** Click here
-*   **ID:** `---`
-*   **Author:** \---
-*   **Subject:** _\---_
-*   **Date:** \---
 
 ### 5\. Typed Arrays
 
